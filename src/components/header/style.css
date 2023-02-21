@@ -1,0 +1,40 @@
+.header{
+    display: flex;
+    flex-wrap: wrap;
+    width: 1600px;
+    height: 82px;
+    background: #2A2A2A;
+}
+
+.header__logo{
+    display: flex;
+    width: 157px;
+    height: 37px;
+}
+
+.nav__item{
+    display: flex;
+    width: 218px;
+    height: 50px;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.phone__number{
+    display: flex;
+    width: 183px;
+    height: 23px;
+    font-family: 'Trebuchet MS';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    color: #FFFFFF;
+}
+
+.icon{
+    display: flex;
+    width: 29px;
+    height: 27px;
+}
